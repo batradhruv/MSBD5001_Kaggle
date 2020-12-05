@@ -15,3 +15,6 @@ Packages required to run ipynb
 * XGBoost
 * LightGBM
 * FBProphet
+
+Google Colab notebook - https://colab.research.google.com/drive/1fHIoNhGLdyqmWEOsWL5noCtsrVzgbtmS#scrollTo=y414mE1A-2C-
+This notebook has also been uploaded to this repo
